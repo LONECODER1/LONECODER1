@@ -11,45 +11,60 @@
   </a> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 💫 About Me:
+
+🔭 I’m currently building **StarkScripts** — an Avengers-themed coding platform designed to make learning development heroic and engaging.  
+👯 I’m actively looking to collaborate on **MERN stack projects**, especially those that push the boundaries of creativity and user experience.  
+🤝 I’m seeking guidance and collaboration in **Generative AI, AI-powered tools**, and practical ML model development.  
+🌱 Currently expanding my skill set with **Next.js**, focusing on performance-driven full-stack applications.  
+💬 Let’s talk about:  
+&emsp;• JavaScript (ES6+), React, Node.js  
+&emsp;• MongoDB, REST APIs, GitHub workflows  
+&emsp;• Scalable UI design, developer productivity tools  
+⚡ Fun fact: I code like Stark, debug like Banner, and deploy like Thor’s hammer — fast and powerful ⚡  
+
+---
+
+## 📫 Connect with me:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/aditya-gupta-8b472627a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-gupta" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/conqueror111" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="conqueror111" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/codecommander6" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codecommander6" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/lonecoder1/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lonecoder1" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/codecomma4jug/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="codecomma4jug" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- no changes here — original icon list retained -->
-  <!-- ... your language/tool icons ... -->
-</p>
+---
 
-<!-- 🐍 Snake Contribution Animation -->
-<p align="center">
-  <img src="https://github.com/lonecoder1/lonecoder1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+## 📊 GitHub Stats:
 
-<!-- 📊 Stats with Green Shadow -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lonecoder1&show_icons=true&locale=en&layout=compact" alt="lonecoder1" style="filter: drop-shadow(0 0 5px limegreen);" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LONECODER1&theme=shadow_green&hide_border=false&layout=compact" style="filter: drop-shadow(0 0 5px limegreen);" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lonecoder1&show_icons=true&locale=en" alt="lonecoder1" style="filter: drop-shadow(0 0 5px limegreen);" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LONECODER1&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" style="filter: drop-shadow(0 0 5px limegreen);" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonecoder1&" alt="lonecoder1" style="filter: drop-shadow(0 0 5px limegreen);" />
+  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=LONECODER1&theme=shadow_green&hide_border=false" style="filter: drop-shadow(0 0 5px limegreen);" />
 </p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=LONECODER1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
