@@ -1,20 +1,3 @@
-
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23131
-Fork on GitHub
-7794
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
@@ -24,7 +7,6 @@ preview
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="l" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/aditya-gupta-8b472627a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/aditya-gupta-8b472627a" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/conqueror111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/conqueror111" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/codecommander6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/codecommander6" height="30" width="40" /></a>
@@ -40,28 +22,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lonecoder1&show_icons=true&locale=en" alt="lonecoder1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonecoder1&" alt="lonecoder1" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
