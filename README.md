@@ -7,8 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=lonecoder1&label=Profile%20views&color=0e75b6&style=flat" alt="lonecoder1" /> 
 </p>
 
-
-
 ---
 
 ## 💫 About Me:
@@ -76,40 +74,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LONECODER1&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8&custom_title=💻%20Most%20Used%20Languages" alt="Top Languages"/>
 </p>
 
-<!-- Additional Detailed Stats -->
-<details>
-<summary>🔥 More GitHub Stats</summary>
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LONECODER1&theme=github-compact&bg_color=0d1117&color=39ff14&line=00ff00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LONECODER1&theme=onestar&no-frame=false&no-bg=false&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" style="padding: 10px;"/>
-</p>
-
-### 📊 Detailed Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LONECODER1&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&custom_title=Aditya's%20GitHub%20Stats" style="filter: drop-shadow(0 0 5px limegreen);" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LONECODER1&theme=shadow_green&hide_border=false&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages" style="filter: drop-shadow(0 0 5px limegreen);" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LONECODER1&theme=shadow_green&hide_border=false&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00" style="filter: drop-shadow(0 0 5px limegreen);" />
-</p>
-
-### 🕒 Coding Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LONECODER1&theme=shadow_green&hide_border=false&layout=compact" alt="WakaTime Stats"/>
-</p>
-
-</details>
-
 ---
 
 ## 🏅 GitHub Activity & Achievements
@@ -123,9 +87,28 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LONECODER1&theme=github-dark-blue&hide_border=true&stroke=58a6ff&background=0D1117&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff" alt="GitHub Streak Stats"/>
 </p>
 
+---
+
+<!-- Additional Detailed Stats -->
+<details>
+<summary>🔥 More GitHub Stats</summary>
+
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LONECODER1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LONECODER1&theme=onestar&no-frame=false&no-bg=false&margin-w=25&margin-h=20&row=2&column=4&title=MultiLanguage,Commits,PullRequest,Followers,Issues,Repositories,Stars" alt="GitHub Trophies" style="padding: 15px;"/>
 </p>
+
+### 🐍 Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" alt="Snake Game Animation"/>
+</p>
+
+### 📈 Additional Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LONECODER1&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&area_color=1f6feb" alt="Contribution Graph"/>
+</p>
+
+</details>
 
 ---
 
