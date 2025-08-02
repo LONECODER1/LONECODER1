@@ -1,3 +1,5 @@
+<div style="background: linear-gradient(135deg, #0f1419 0%, #1a2332 50%, #0f1419 100%); padding: 20px; border-radius: 10px;">
+
 <h1 align="center" style="text-shadow: 0 0 10px #00ff00;">Hi 👋, I'm Aditya Gupta</h1>
 <h3 align="center" style="text-shadow: 0 0 10px #00ff00;">A passionate fullstack developer from India</h3>
 
@@ -53,19 +55,29 @@
 
 ## 📊 GitHub Stats:
 
-<!-- GitHub Summary Cards -->
+<!-- Main Stats Overview -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LONECODER1&theme=github_dark" alt="GitHub Profile Summary"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LONECODER1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true&include_all_commits=true&custom_title=⭐%20GitHub%20Stats" alt="GitHub Stats"/>
+</p>
+
+<!-- GitHub Summary Cards matching your image -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LONECODER1&theme=github_dark" alt="📈 Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LONECODER1&theme=github_dark" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LONECODER1&theme=github_dark" alt="Top Languages by Commit"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LONECODER1&theme=github_dark" alt="📊 General Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LONECODER1&theme=github_dark" alt="🔥 Top Languages by Commit"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LONECODER1&theme=github_dark" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LONECODER1&theme=github_dark&utcOffset=5.5" alt="Commits by Hour"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LONECODER1&theme=github_dark" alt="📚 Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LONECODER1&theme=github_dark&utcOffset=5.5" alt="⏰ Commits by Hour (UTC +5:30)"/>
+</p>
+
+<!-- Additional Language Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LONECODER1&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8&custom_title=💻%20Most%20Used%20Languages" alt="Top Languages"/>
 </p>
 
 <!-- Additional Detailed Stats -->
@@ -79,7 +91,7 @@
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LONECODER1&theme=onestar&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LONECODER1&theme=onestar&no-frame=false&no-bg=false&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" style="padding: 10px;"/>
 </p>
 
 ### 📊 Detailed Analytics
@@ -104,22 +116,24 @@
 
 ---
 
-## 🏅 GitHub Metrics
+## 🏅 GitHub Activity & Achievements
 
+<!-- Snake Game Animation -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/LONECODER1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&people=1&followup=1&reactions=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&config.timezone=Asia%2FKolkata" alt="GitHub Metrics"/>
+  <img src="https://raw.githubusercontent.com/LONECODER1/LONECODER1/output/github-contribution-grid-snake.svg" alt="Snake Game Animation"/>
 </p>
 
----
-
-## 🏆 Achievements & Streaks
-
+<!-- Activity Graph with Light Blue Tint -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LONECODER1&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LONECODER1&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&area_color=1f6feb" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LONECODER1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LONECODER1&theme=github-dark-blue&hide_border=true&stroke=58a6ff&background=0D1117&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LONECODER1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </p>
 
 ---
@@ -135,3 +149,5 @@
 [![](https://visitcount.itsvg.in/api?id=LONECODER1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
