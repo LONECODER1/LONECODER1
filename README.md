@@ -7,11 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=lonecoder1&label=Profile%20views&color=0e75b6&style=flat" alt="lonecoder1" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lonecoder1" alt="lonecoder1" />
-  </a> 
-</p>
+
 
 ---
 
@@ -117,11 +113,6 @@
 ---
 
 ## 🏅 GitHub Activity & Achievements
-
-<!-- Snake Game Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LONECODER1/LONECODER1/output/github-contribution-grid-snake.svg" alt="Snake Game Animation"/>
-</p>
 
 <!-- Activity Graph with Light Blue Tint -->
 <p align="center">
