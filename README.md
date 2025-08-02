@@ -75,10 +75,6 @@
 </p>
 
 ---
-
-## 🏅 GitHub Activity & Achievements
-
-<!-- Activity Graph with Light Blue Tint -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LONECODER1&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&area_color=1f6feb" alt="Contribution Graph"/>
 </p>
@@ -98,15 +94,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LONECODER1&theme=onestar&no-frame=false&no-bg=false&margin-w=25&margin-h=20&row=2&column=4&title=MultiLanguage,Commits,PullRequest,Followers,Issues,Repositories,Stars" alt="GitHub Trophies" style="padding: 15px;"/>
 </p>
 
-### 🐍 Snake Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" alt="Snake Game Animation"/>
 </p>
 
-### 📈 Additional Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LONECODER1&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&area_color=1f6feb" alt="Contribution Graph"/>
-</p>
 
 </details>
 
