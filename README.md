@@ -2,7 +2,7 @@
 
 <!-- Animated Header with Metallic Effect -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1000&color=00FF88&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Gupta;A+Passionate+Fullstack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1000&color=00FF88&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+I'm+Aditya+Gupta;" alt="Typing SVG" />
 </h1>
 
 <!-- Glowing Profile Views Counter -->
@@ -165,11 +165,4 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 </div>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=LONECODER1&icon=0&color=6" alt="Visit Count"/>
-  </a>
-</div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
