@@ -77,16 +77,9 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=GitHub%20Activity&fontSize=24&fontColor=dc143c&font=Rajdhani&color=0:0a0a0c,100:120810&animation=fadeIn" alt="GitHub Activity" />
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="48%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LONECODER1&theme=radical" width="100%" alt="Profile overview" />
-    </td>
-    <td align="center" width="52%">
-      <img src="https://raw.githubusercontent.com/LONECODER1/LONECODER1/main/github-metrics.svg?v=2" width="100%" alt="GitHub metrics" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LONECODER1&theme=radical" alt="Profile overview" />
+</p>
 
 <p align="center">
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LONECODER1&theme=radical" alt="GitHub stats" />
@@ -95,20 +88,21 @@
 </p>
 
 <p align="center">
-  <img height="185" src="https://github-readme-streak-stats.herokuapp.com?user=LONECODER1&theme=radical&hide_border=true&background=0a0a0c&stroke=4a1020&ring=dc143c&fire=c41e3a&currStreakNum=e6e2df&sideNums=8b949e&currStreakLabel=dc143c&sideLabels=c41e3a&dates=6e7681" alt="Contribution streak" />
+  <img width="900" src="https://raw.githubusercontent.com/LONECODER1/LONECODER1/main/github-metrics.svg?v=2" alt="GitHub metrics" />
+</p>
+
+<p align="center">
+  <img height="185" src="https://github-readme-streak-stats.herokuapp.com?user=LONECODER1&theme=radical&hide_border=true&background=0a0a0c&stroke=4a1020&ring=dc143c&fire=dc143c&currStreakNum=e6e2df&sideNums=8b949e&currStreakLabel=dc143c&sideLabels=dc143c&dates=6e7681" alt="Contribution streak" />
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LONECODER1&theme=radical&utcOffset=5.5" alt="Productive time" />
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=LONECODER1&bg_color=0a0a0c&color=dc143c&line=c41e3a&point=8b0000&area=true&area_color=1a0a12&hide_border=true" width="100%" alt="Contribution graph" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/LONECODER1/LONECODER1/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=LONECODER1&bg_color=0a0a0c&color=dc143c&line=dc143c&point=dc143c&area=true&area_color=1a0a12&hide_border=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img width="900" src="https://raw.githubusercontent.com/LONECODER1/LONECODER1/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,100:1a0a12&height=2&section=footer&reversal=true" alt="" />
