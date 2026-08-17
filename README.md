@@ -10,10 +10,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=19&duration=3000&pause=1400&color=9e0100&center=true&vCenter=true&width=760&lines=Building+scalable+full-stack+applications;Cloud-native+architecture+%7C+DevOps+%7C+System+Design;Clean+code+%7C+Strong+systems+%7C+Real+impact;Always+learning+%7C+Always+shipping" alt="Typing tagline" />
   <br/>
   <a href="https://github.com/LONECODER1" target="_blank"><img src="https://img.shields.io/badge/GitHub-0a0a0c?style=for-the-badge&logo=github&logoColor=9e0100&labelColor=0a0a0c" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a0a0c?style=for-the-badge&logo=linkedin&logoColor=9e0100&labelColor=0a0a0c" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LeetCode-0a0a0c?style=for-the-badge&logo=leetcode&logoColor=9e0100&labelColor=0a0a0c" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/aditya-gupta-iiitbh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a0a0c?style=for-the-badge&logo=linkedin&logoColor=9e0100&labelColor=0a0a0c" alt="LinkedIn" /></a>
+  <a href="https://codolio.com/profile/LONECODER1" target="_blank"><img src="https://img.shields.io/badge/Codolio-0a0a0c?style=for-the-badge&logoColor=9e0100&labelColor=0a0a0c" alt="Codolio" /></a>
+  <a href="https://leetcode.com/TheOneEgoist" target="_blank"><img src="https://img.shields.io/badge/LeetCode-0a0a0c?style=for-the-badge&logo=leetcode&logoColor=9e0100&labelColor=0a0a0c" alt="LeetCode" /></a>
   <a href="mailto:adityagupta1112004vns@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0a0a0c?style=for-the-badge&logo=gmail&logoColor=9e0100&labelColor=0a0a0c" alt="Gmail" /></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-0a0a0c?style=for-the-badge&logo=discord&logoColor=9e0100&labelColor=0a0a0c" alt="Discord" /></a>
+ 
 </p>
 
 <p align="center">
