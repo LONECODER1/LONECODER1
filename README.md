@@ -1,114 +1,146 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f0d20,100:2d1525&height=200&section=header&text=Aditya%20Gupta&fontSize=48&fontColor=e8ddd5&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Open-Source%20Contributor&descAlignY=58&descSize=18&descColor=c9748a&animation=fadeIn" alt="header" />
-</p>
-
+<!-- Palette: obsidian #0a0a0c · crimson #dc143c · ember #c41e3a · ash #e6e2df · muted #8b949e -->
+<!-- Typography: Rajdhani (headings) · Roboto (body / taglines) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2400&pause=1000&color=C9748A&background=00000000&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+applications;Cloud-native+%7C+DevOps+%7C+System+Design;Always+learning+%7C+Always+growing" alt="Typing animation" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LONECODER1/LONECODER1/main/banner.gif?v=1" alt="Knight Guts Banner" width="980" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0c,25:120810,55:1a0a12,80:2a0810,100:0a0a0c&height=220&section=header&text=Aditya%20Gupta&fontSize=52&fontColor=e6e2df&fontAlignY=38&font=Rajdhani&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=62&descSize=18&descColor=dc143c&animation=fadeIn" alt="Aditya Gupta" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/LONECODER1"><img src="https://komarev.com/ghpvc/?username=LONECODER1&label=Profile%20Views&color=8b3a62&style=flat-square&labelColor=0d1117" alt="Profile views" /></a>
-  <a href="https://github.com/LONECODER1?tab=followers"><img src="https://img.shields.io/github/followers/LONECODER1?label=Followers&style=flat-square&color=c9748a&labelColor=0d1117&logo=github&logoColor=c9748a" alt="Followers" /></a>
-  <a href="https://github.com/LONECODER1?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&logoColor=c9748a&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FLONECODER1&style=flat-square&color=c9748a&labelColor=0d1117" alt="Public repos" /></a>
-  <img src="https://img.shields.io/github/last-commit/LONECODER1/LONECODER1?label=Last%20Commit&style=flat-square&color=d4885a&labelColor=0d1117&logo=github&logoColor=d4885a" alt="Last commit" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=19&duration=3000&pause=1400&color=DC143C&center=true&vCenter=true&width=760&lines=Building+scalable+full-stack+applications;Cloud-native+architecture+%7C+DevOps+%7C+System+Design;Clean+code+%7C+Strong+systems+%7C+Real+impact;Always+learning+%7C+Always+shipping" alt="Typing tagline" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=36&color=0:0a0a0c,100:dc143c&text=Developer%20%7C%20Engineer%20%7C%20Builder&fontSize=14&fontColor=e6e2df&font=Rajdhani&stroke=dc143c" alt="Role strip" />
+</p>
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LONECODER1/LONECODER1/main/banner.gif?v=2" alt="Profile banner" width="800" />
+</p>
 
-```yaml
-name:     Aditya Gupta
-location: India 🇮🇳
-role:     Full-stack Developer , Software Developer Enthusiast
-focus:    Scalable apps · Cloud-native · DevOps · System Design
-stack:    JS · TS · Python · Go · React · Node.js · Docker · AWS
-open_to:  OSS collaboration · interesting engineering problems
-hobbies:  ["Coding", "Open Source", "Valorant", "Traveling"]
-```
+<p align="center">
+  <a href="https://github.com/LONECODER1"><img src="https://komarev.com/ghpvc/?username=LONECODER1&label=Profile%20Views&color=dc143c&style=flat-square&labelColor=0a0a0c" alt="Profile views" /></a>
+  <a href="https://github.com/LONECODER1?tab=followers"><img src="https://img.shields.io/github/followers/LONECODER1?label=Followers&style=flat-square&color=1a0a12&labelColor=0a0a0c&logo=github&logoColor=dc143c" alt="Followers" /></a>
+  <a href="https://github.com/LONECODER1?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&logoColor=dc143c&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FLONECODER1&style=flat-square&color=1a0a12&labelColor=0a0a0c" alt="Public repos" /></a>
+  <img src="https://img.shields.io/github/last-commit/LONECODER1/LONECODER1?label=Last%20Commit&style=flat-square&color=1a0a12&labelColor=0a0a0c&logo=github&logoColor=c41e3a" alt="Last commit" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20Cloud%20%7C%20DevOps-1a0a12?style=flat-square&labelColor=0a0a0c&color=dc143c" alt="Focus areas" />
+</p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,100:1a0a12&height=2&section=footer&reversal=true" alt="" />
+</p>
 
-## 🏆 Achievements
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=About%20Me&fontSize=24&fontColor=dc143c&font=Rajdhani&color=0:0a0a0c,100:120810&animation=fadeIn" alt="About Me" />
+</p>
 
-<p align="center"><sub>Showcasing the complete achievement collection and milestone progress.</sub></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=400&size=16&duration=4200&pause=2000&color=E6E2DF&center=true&vCenter=true&width=820&lines=I+design+and+build+reliable+software+at+scale.;Passionate+about+performance%2C+architecture%2C+and+clean+engineering.;Open+to+collaboration+on+meaningful+open-source+projects." alt="About tagline" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="right"><b>Name</b></td>
+    <td>Aditya Gupta</td>
+    <td align="right"><b>Location</b></td>
+    <td>India</td>
+  </tr>
+  <tr>
+    <td align="right"><b>Role</b></td>
+    <td>Full-Stack Developer</td>
+    <td align="right"><b>Focus</b></td>
+    <td>Scalable apps · Cloud · DevOps · System Design</td>
+  </tr>
+  <tr>
+    <td align="right"><b>Stack</b></td>
+    <td colspan="3">JavaScript · TypeScript · Python · Go · React · Node.js · Docker · AWS</td>
+  </tr>
+  <tr>
+    <td align="right"><b>Interests</b></td>
+    <td colspan="3">Open Source · Competitive Gaming · Travel · Continuous Learning</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,100:1a0a12&height=2&section=footer&reversal=true" alt="" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=Tech%20Stack&fontSize=24&fontColor=dc143c&font=Rajdhani&color=0:0a0a0c,100:120810&animation=fadeIn" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,cpp,react,nextjs,vue,nodejs,express,nestjs,fastapi,mongodb,postgres,mysql,docker,kubernetes,aws,git,github,linux,vscode&theme=dark&perline=11" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,100:1a0a12&height=2&section=footer&reversal=true" alt="" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=GitHub%20Activity&fontSize=24&fontColor=dc143c&font=Rajdhani&color=0:0a0a0c,100:120810&animation=fadeIn" alt="GitHub Activity" />
+</p>
+
+<p align="center">
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LONECODER1&theme=2077" alt="Profile overview" />
+</p>
+
+<p align="center">
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LONECODER1&theme=2077" alt="GitHub stats" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LONECODER1&theme=2077" alt="Repos per language" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LONECODER1&theme=2077" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img width="900" src="https://raw.githubusercontent.com/LONECODER1/LONECODER1/main/github-metrics.svg?v=2" alt="GitHub metrics" />
+</p>
+
+<p align="center">
+  <img height="185" src="https://github-readme-streak-stats.herokuapp.com?user=LONECODER1&theme=radical&hide_border=true&background=0a0a0c&stroke=4a1020&ring=dc143c&fire=c41e3a&currStreakNum=e6e2df&sideNums=8b949e&currStreakLabel=dc143c&sideLabels=c41e3a&dates=6e7681" alt="Contribution streak" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LONECODER1&theme=2077&utcOffset=5.5" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=LONECODER1&bg_color=0a0a0c&color=dc143c&line=c41e3a&point=8b0000&area=true&area_color=1a0a12&hide_border=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img width="900" src="https://raw.githubusercontent.com/LONECODER1/LONECODER1/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,100:1a0a12&height=2&section=footer&reversal=true" alt="" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=Achievements&fontSize=24&fontColor=dc143c&font=Rajdhani&color=0:0a0a0c,100:120810&animation=fadeIn" alt="Achievements" />
+</p>
 
 <p align="center">
   <a href="https://holopin.io/@LONECODER1">
-    <img src="https://holopin.me/LONECODER1" alt="Holopin badges" />
+    <img width="900" src="https://holopin.me/LONECODER1" alt="Holopin badges" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LONECODER1&theme=dracula" alt="Achievement stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LONECODER1&theme=dracula&utcOffset=5.5" alt="Productive time" />
-</p>
-
----
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LONECODER1/LONECODER1/main/github-metrics.svg?v=1" alt="GitHub Metrics" />
-</p>
-<p align="center"><sub>Auto-generated by the Metrics GitHub Action workflow.</sub></p>
-
----
-
-## 📈 Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LONECODER1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=c9748a&icon_color=d4885a&text_color=e8ddd5&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LONECODER1&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=c9748a&text_color=e8ddd5&langs_count=8" alt="Top languages" />
-</p>
-
----
-
-## 🔥 Contributions Calendar
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LONECODER1&theme=radical&hide_border=true&background=0d1117&stroke=8b3a62&ring=c9748a&fire=d4885a&currStreakNum=e8ddd5&sideNums=e8ddd5&currStreakLabel=c9748a&sideLabels=d4885a&dates=7a8fa6" alt="GitHub streak" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,100:1a0a12&height=2&section=footer&reversal=true" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LONECODER1&bg_color=0d1117&color=c9748a&line=d4885a&point=8b3a62&area=true&area_color=2a1525&hide_border=true" alt="Contribution graph" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=Connect&fontSize=24&fontColor=dc143c&font=Rajdhani&color=0:0a0a0c,100:120810&animation=fadeIn" alt="Connect" />
+</p>
+
+<!-- Add your contact links and social badges below -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,100:1a0a12&height=2&section=footer&reversal=true" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LONECODER1/LONECODER1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0810,35:1a0a12,70:120810,100:0a0a0c&height=150&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=e6e2df&font=Rajdhani&desc=Building%20with%20purpose%20%7C%20Shipping%20with%20precision&descAlignY=66&descSize=15&descColor=dc143c&animation=fadeIn" alt="Footer" />
 </p>
-
----
-
-## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,cpp,react,nextjs,vue,nodejs,express,nestjs,fastapi,mongodb,postgres,mysql,docker,kubernetes,aws,git,github,linux,vscode&theme=dark" alt="Tech stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=400&size=14&duration=3600&pause=1800&color=8B949E&center=true&vCenter=true&width=520&lines=%22Code+is+craft.%22;%22Stay+sharp.+Stay+curious.%22" alt="Closing quote" />
 </p>
 
----
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://github.com/LONECODER1"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e8ddd5" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c9748a" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=7a8fa6" alt="Twitter" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=d4885a" alt="Email" /></a>
-  <a href="https://dev.to/YOUR_DEVTO_USERNAME"><img src="https://img.shields.io/badge/dev.to-0d1117?style=for-the-badge&logo=dev.to&logoColor=e8ddd5" alt="dev.to" /></a>
-  <a href="https://stackoverflow.com/users/YOUR_STACKOVERFLOW_ID"><img src="https://img.shields.io/badge/Stack%20Overflow-0d1117?style=for-the-badge&logo=stack-overflow&logoColor=d4885a" alt="Stack Overflow" /></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=c9748a" alt="Discord" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1525,50:1f0d20,100:0d1117&height=120&section=footer" alt="footer" />
-</p>
-
-<p align="center"><sub>GitHub Metrics and Snake animation refresh nightly at 00:00 UTC and on pushes via GitHub Actions workflows.</sub></p>
+<p align="center"><sub>Metrics and snake animation refresh nightly via GitHub Actions.</sub></p>
