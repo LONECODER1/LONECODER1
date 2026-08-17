@@ -9,7 +9,11 @@
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=19&duration=3000&pause=1400&color=9e0100&center=true&vCenter=true&width=760&lines=Building+scalable+full-stack+applications;Cloud-native+architecture+%7C+DevOps+%7C+System+Design;Clean+code+%7C+Strong+systems+%7C+Real+impact;Always+learning+%7C+Always+shipping" alt="Typing tagline" />
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=36&color=0:0a0a0c,100:9e0100&text=Developer%20%7C%20Engineer%20%7C%20Builder&fontSize=14&fontColor=e6e2df&font=Segoe+UI&stroke=9e0100" alt="Role strip" />
+  <a href="https://github.com/LONECODER1" target="_blank"><img src="https://img.shields.io/badge/GitHub-0a0a0c?style=for-the-badge&logo=github&logoColor=9e0100&labelColor=0a0a0c" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a0a0c?style=for-the-badge&logo=linkedin&logoColor=9e0100&labelColor=0a0a0c" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LeetCode-0a0a0c?style=for-the-badge&logo=leetcode&logoColor=9e0100&labelColor=0a0a0c" alt="LeetCode" /></a>
+  <a href="mailto:adityagupta1112004vns@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0a0a0c?style=for-the-badge&logo=gmail&logoColor=9e0100&labelColor=0a0a0c" alt="Gmail" /></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-0a0a0c?style=for-the-badge&logo=discord&logoColor=9e0100&labelColor=0a0a0c" alt="Discord" /></a>
 </p>
 
 <p align="center">
@@ -25,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=About%20Me&fontSize=24&fontColor=9e0100&font=Segoe+UI&color=0:0a0a0c,100:120815&animation=fadeIn" alt="About Me" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=About%20Me&fontSize=24&fontColor=e6e2df&fontAlignY=38&font=Segoe+UI&color=0:0a0a0c,50:4a0100,100:9e0100&animation=fadeIn" alt="About Me" />
 </p>
 
 <p align="center">
@@ -60,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=Tech%20Stack&fontSize=24&fontColor=9e0100&font=Segoe+UI&color=0:0a0a0c,100:120815&animation=fadeIn" alt="Tech Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=Tech%20Stack&fontSize=24&fontColor=e6e2df&fontAlignY=38&font=Segoe+UI&color=0:0a0a0c,50:4a0100,100:9e0100&animation=fadeIn" alt="Tech Stack" />
 </p>
 
 <p align="center">
@@ -72,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=Achievements&fontSize=24&fontColor=9e0100&font=Segoe+UI&color=0:0a0a0c,100:120815&animation=fadeIn" alt="Achievements" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=Achievements&fontSize=24&fontColor=e6e2df&fontAlignY=38&font=Segoe+UI&color=0:0a0a0c,50:4a0100,100:9e0100&animation=fadeIn" alt="Achievements" />
 </p>
 
 <p align="center">
@@ -86,7 +90,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=GitHub%20Activity&fontSize=24&fontColor=9e0100&font=Segoe+UI&color=0:0a0a0c,100:120815&animation=fadeIn" alt="GitHub Activity" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=GitHub%20Activity&fontSize=24&fontColor=e6e2df&fontAlignY=38&font=Segoe+UI&color=0:0a0a0c,50:4a0100,100:9e0100&animation=fadeIn" alt="GitHub Activity" />
 </p>
 
 <p align="center">
@@ -124,15 +128,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,100:1a0a12&height=2&section=footer&reversal=true" alt="" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=Connect&fontSize=24&fontColor=9e0100&font=Segoe+UI&color=0:0a0a0c,100:120815&animation=fadeIn" alt="Connect" />
-</p>
 
-<!-- Add your contact links and social badges below -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,100:1a0a12&height=2&section=footer&reversal=true" alt="" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0c,50:4a0100,100:9e0100&height=150&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=e6e2df&font=Segoe+UI&desc=Building%20with%20purpose%20%7C%20Shipping%20with%20precision&descAlignY=66&descSize=15&descColor=9e0100&animation=fadeIn" alt="Footer" />
