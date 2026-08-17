@@ -65,7 +65,7 @@ To make the metrics generation work, you need to create a GitHub Personal Access
 6. **Copy the token** (you won't be able to see it again!)
 
 7. Go to your repository settings:
-   - Navigate to: https://github.com/04shubham7/04shubham7/settings/secrets/actions
+   - Navigate to: https://github.com/LONECODER1/LONECODER1/settings/secrets/actions
    
 8. Click "New repository secret"
 
@@ -241,7 +241,7 @@ Your profile is now a comprehensive showcase of your skills, achievements, and p
 ### Next Steps:
 1. ⭐ Star this repository
 2. 🔄 Wait for workflows to run (or trigger manually)
-3. 👀 View your updated profile at https://github.com/04shubham7
+3. 👀 View your updated profile at https://github.com/LONECODER1
 4. 📢 Share your awesome profile with the community!
 5. 🔄 Keep updating with new projects and achievements
 

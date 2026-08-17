@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f0d20,100:2d1525&height=200&section=header&text=Shubham%20Kumar&fontSize=48&fontColor=e8ddd5&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Open-Source%20Contributor&descAlignY=58&descSize=18&descColor=c9748a&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f0d20,100:2d1525&height=200&section=header&text=Aditya%20Gupta&fontSize=48&fontColor=e8ddd5&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Open-Source%20Contributor&descAlignY=58&descSize=18&descColor=c9748a&animation=fadeIn" alt="header" />
 </p>
 
 
@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/04shubham7"><img src="https://komarev.com/ghpvc/?username=04shubham7&label=Profile%20Views&color=8b3a62&style=flat-square&labelColor=0d1117" alt="Profile views" /></a>
-  <a href="https://github.com/04shubham7?tab=followers"><img src="https://img.shields.io/github/followers/04shubham7?label=Followers&style=flat-square&color=c9748a&labelColor=0d1117&logo=github&logoColor=c9748a" alt="Followers" /></a>
-  <a href="https://github.com/04shubham7?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&logoColor=c9748a&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F04shubham7&style=flat-square&color=c9748a&labelColor=0d1117" alt="Public repos" /></a>
-  <img src="https://img.shields.io/github/last-commit/04shubham7/04shubham7?label=Last%20Commit&style=flat-square&color=d4885a&labelColor=0d1117&logo=github&logoColor=d4885a" alt="Last commit" />
+  <a href="https://github.com/LONECODER1"><img src="https://komarev.com/ghpvc/?username=LONECODER1&label=Profile%20Views&color=8b3a62&style=flat-square&labelColor=0d1117" alt="Profile views" /></a>
+  <a href="https://github.com/LONECODER1?tab=followers"><img src="https://img.shields.io/github/followers/LONECODER1?label=Followers&style=flat-square&color=c9748a&labelColor=0d1117&logo=github&logoColor=c9748a" alt="Followers" /></a>
+  <a href="https://github.com/LONECODER1?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&logoColor=c9748a&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FLONECODER1&style=flat-square&color=c9748a&labelColor=0d1117" alt="Public repos" /></a>
+  <img src="https://img.shields.io/github/last-commit/LONECODER1/LONECODER1?label=Last%20Commit&style=flat-square&color=d4885a&labelColor=0d1117&logo=github&logoColor=d4885a" alt="Last commit" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name:     Shubham Kumar
+name:     Aditya Gupta
 location: India 🇮🇳
 role:     Full-stack Developer , Software Developer Enthusiast
 focus:    Scalable apps · Cloud-native · DevOps · System Design
@@ -39,14 +39,14 @@ hobbies:  ["Coding", "Open Source", "Valorant", "Traveling"]
 <p align="center"><sub>Showcasing the complete achievement collection and milestone progress.</sub></p>
 
 <p align="center">
-  <a href="https://holopin.io/@04shubham7">
-    <img src="https://holopin.me/04shubham7" alt="Holopin badges" />
+  <a href="https://holopin.io/@LONECODER1">
+    <img src="https://holopin.me/LONECODER1" alt="Holopin badges" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=04shubham7&theme=dracula" alt="Achievement stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=04shubham7&theme=dracula&utcOffset=5.5" alt="Productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LONECODER1&theme=dracula" alt="Achievement stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LONECODER1&theme=dracula&utcOffset=5.5" alt="Productive time" />
 </p>
 
 ---
@@ -63,8 +63,8 @@ hobbies:  ["Coding", "Open Source", "Valorant", "Traveling"]
 ## 📈 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=04shubham7&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=c9748a&icon_color=d4885a&text_color=e8ddd5&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=04shubham7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=c9748a&text_color=e8ddd5&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LONECODER1&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=c9748a&icon_color=d4885a&text_color=e8ddd5&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LONECODER1&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=c9748a&text_color=e8ddd5&langs_count=8" alt="Top languages" />
 </p>
 
 ---
@@ -72,15 +72,15 @@ hobbies:  ["Coding", "Open Source", "Valorant", "Traveling"]
 ## 🔥 Contributions Calendar
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=04shubham7&theme=radical&hide_border=true&background=0d1117&stroke=8b3a62&ring=c9748a&fire=d4885a&currStreakNum=e8ddd5&sideNums=e8ddd5&currStreakLabel=c9748a&sideLabels=d4885a&dates=7a8fa6" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LONECODER1&theme=radical&hide_border=true&background=0d1117&stroke=8b3a62&ring=c9748a&fire=d4885a&currStreakNum=e8ddd5&sideNums=e8ddd5&currStreakLabel=c9748a&sideLabels=d4885a&dates=7a8fa6" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=04shubham7&bg_color=0d1117&color=c9748a&line=d4885a&point=8b3a62&area=true&area_color=2a1525&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LONECODER1&bg_color=0d1117&color=c9748a&line=d4885a&point=8b3a62&area=true&area_color=2a1525&hide_border=true" alt="Contribution graph" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/04shubham7/04shubham7/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/LONECODER1/LONECODER1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -96,13 +96,13 @@ hobbies:  ["Coding", "Open Source", "Valorant", "Traveling"]
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://github.com/04shubham7"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e8ddd5" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/04shubham07"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c9748a" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/04shubham7"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=7a8fa6" alt="Twitter" /></a>
-  <a href="mailto:shubham040711@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=d4885a" alt="Email" /></a>
-  <a href="https://dev.to/04shubham7"><img src="https://img.shields.io/badge/dev.to-0d1117?style=for-the-badge&logo=dev.to&logoColor=e8ddd5" alt="dev.to" /></a>
-  <a href="https://stackoverflow.com/users/04shubham7"><img src="https://img.shields.io/badge/Stack%20Overflow-0d1117?style=for-the-badge&logo=stack-overflow&logoColor=d4885a" alt="Stack Overflow" /></a>
-  <a href="https://discord.com/users/04shubham7"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=c9748a" alt="Discord" /></a>
+  <a href="https://github.com/LONECODER1"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e8ddd5" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c9748a" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=7a8fa6" alt="Twitter" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=d4885a" alt="Email" /></a>
+  <a href="https://dev.to/YOUR_DEVTO_USERNAME"><img src="https://img.shields.io/badge/dev.to-0d1117?style=for-the-badge&logo=dev.to&logoColor=e8ddd5" alt="dev.to" /></a>
+  <a href="https://stackoverflow.com/users/YOUR_STACKOVERFLOW_ID"><img src="https://img.shields.io/badge/Stack%20Overflow-0d1117?style=for-the-badge&logo=stack-overflow&logoColor=d4885a" alt="Stack Overflow" /></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=c9748a" alt="Discord" /></a>
 </p>
 
 ---

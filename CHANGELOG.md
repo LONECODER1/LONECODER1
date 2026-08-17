@@ -118,4 +118,4 @@ Built using:
 
 ---
 
-**Full Changelog**: [v1.0.0...v2.0.0](https://github.com/04shubham7/04shubham7/compare/v1.0.0...v2.0.0)
+**Full Changelog**: [v1.0.0...v2.0.0](https://github.com/LONECODER1/LONECODER1/compare/v1.0.0...v2.0.0)
