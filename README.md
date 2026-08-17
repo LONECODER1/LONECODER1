@@ -94,17 +94,17 @@
 </p>
 
 <p align="center">
-  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LONECODER1&theme=radical" alt="Profile overview" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LONECODER1&theme=2077" alt="Profile overview" />
 </p>
 
 <table align="center">
   <tr>
-    <td><img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LONECODER1&theme=radical" alt="GitHub stats" /></td>
-    <td><img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LONECODER1&theme=radical" alt="Repos per language" /></td>
+    <td><img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LONECODER1&theme=2077" alt="GitHub stats" /></td>
+    <td><img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LONECODER1&theme=2077" alt="Repos per language" /></td>
   </tr>
   <tr>
-    <td><img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LONECODER1&theme=radical" alt="Most commit language" /></td>
-    <td><img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LONECODER1&theme=radical&utcOffset=5.5" alt="Commits by hour" /></td>
+    <td><img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LONECODER1&theme=2077" alt="Most commit language" /></td>
+    <td><img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LONECODER1&theme=2077&utcOffset=5.5" alt="Commits by hour" /></td>
   </tr>
 </table>
 
