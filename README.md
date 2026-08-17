@@ -43,15 +43,15 @@
     <td align="right"><b>Role</b></td>
     <td>Full-Stack Developer</td>
     <td align="right"><b>Focus</b></td>
-    <td>Scalable apps · Cloud · DevOps · System Design</td>
+    <td>Scalable apps · Artificial Intelligence · DevOps · System Design</td>
   </tr>
   <tr>
     <td align="right"><b>Stack</b></td>
-    <td colspan="3">JavaScript · TypeScript · Python · Go · React · Node.js · Docker · AWS</td>
+    <td colspan="3">JavaScript · TypeScript · Python · React · Node.js · Docker · AWS</td>
   </tr>
   <tr>
     <td align="right"><b>Interests</b></td>
-    <td colspan="3">Open Source · Competitive Gaming · Travel · Continuous Learning</td>
+    <td colspan="3">Open Source · Painting · Travel · Photography · Continuous Learning</td>
   </tr>
 </table>
 
@@ -79,18 +79,16 @@
   <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LONECODER1&theme=radical" alt="Profile overview" />
 </p>
 
-<p align="center">
-  <table>
-    <tr>
-      <td><img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LONECODER1&theme=radical" alt="GitHub stats" /></td>
-      <td><img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LONECODER1&theme=radical" alt="Repos per language" /></td>
-    </tr>
-    <tr>
-      <td><img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LONECODER1&theme=radical" alt="Most commit language" /></td>
-      <td><img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LONECODER1&theme=radical&utcOffset=5.5" alt="Commits by hour" /></td>
-    </tr>
-  </table>
-</p>
+<table align="center">
+  <tr>
+    <td><img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LONECODER1&theme=radical" alt="GitHub stats" /></td>
+    <td><img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LONECODER1&theme=radical" alt="Repos per language" /></td>
+  </tr>
+  <tr>
+    <td><img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LONECODER1&theme=radical" alt="Most commit language" /></td>
+    <td><img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LONECODER1&theme=radical&utcOffset=5.5" alt="Commits by hour" /></td>
+  </tr>
+</table>
 
 <p align="center">
   <img width="900" src="https://raw.githubusercontent.com/LONECODER1/LONECODER1/main/github-metrics.svg?v=2" alt="GitHub metrics" />
