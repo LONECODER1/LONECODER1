@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="./banner.gif" alt="Knight Guts Banner" width="980" />
+  <img src="https://raw.githubusercontent.com/LONECODER1/LONECODER1/main/banner.gif" alt="Knight Guts Banner" width="980" />
 </p>
 
 <p align="center">
