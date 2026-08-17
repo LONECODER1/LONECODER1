@@ -16,7 +16,6 @@
 <p align="center">
   <a href="https://github.com/LONECODER1" target="_blank"><img src="https://img.shields.io/badge/GitHub-0a0a0c?style=for-the-badge&logo=github&logoColor=9e0100&labelColor=0a0a0c" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/aditya-gupta-iiitbh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a0a0c?style=for-the-badge&logo=linkedin&logoColor=9e0100&labelColor=0a0a0c" alt="LinkedIn" /></a>
-  <a href="https://codolio.com/profile/LONECODER1" target="_blank"><img src="https://img.shields.io/badge/Codolio-0a0a0c?style=for-the-badge&logoColor=9e0100&labelColor=0a0a0c" alt="Codolio" /></a>
   <a href="https://leetcode.com/TheOneEgoist" target="_blank"><img src="https://img.shields.io/badge/LeetCode-0a0a0c?style=for-the-badge&logo=leetcode&logoColor=9e0100&labelColor=0a0a0c" alt="LeetCode" /></a>
   <a href="mailto:adityagupta1112004vns@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0a0a0c?style=for-the-badge&logo=gmail&logoColor=9e0100&labelColor=0a0a0c" alt="Gmail" /></a>
 </p>
