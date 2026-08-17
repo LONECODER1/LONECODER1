@@ -5,19 +5,19 @@
   <img src="https://raw.githubusercontent.com/LONECODER1/LONECODER1/main/banner.gif?v=2" alt="Profile banner" width="800" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a12,50:4a2574,100:bd93f9&height=140&section=header&text=Aditya%20Gupta&fontSize=52&fontColor=e6e2df&fontAlignY=35&font=Segoe+UI&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=60&descSize=18&descColor=bd93f9&animation=fadeIn" alt="Aditya Gupta" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0c,50:4a0100,100:9e0100&height=140&section=header&text=Aditya%20Gupta&fontSize=52&fontColor=e6e2df&fontAlignY=35&font=Segoe+UI&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=60&descSize=18&descColor=9e0100&animation=fadeIn" alt="Aditya Gupta" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=19&duration=3000&pause=1400&color=bd93f9&center=true&vCenter=true&width=760&lines=Building+scalable+full-stack+applications;Cloud-native+architecture+%7C+DevOps+%7C+System+Design;Clean+code+%7C+Strong+systems+%7C+Real+impact;Always+learning+%7C+Always+shipping" alt="Typing tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=19&duration=3000&pause=1400&color=9e0100&center=true&vCenter=true&width=760&lines=Building+scalable+full-stack+applications;Cloud-native+architecture+%7C+DevOps+%7C+System+Design;Clean+code+%7C+Strong+systems+%7C+Real+impact;Always+learning+%7C+Always+shipping" alt="Typing tagline" />
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=36&color=0:0a0a0c,100:bd93f9&text=Developer%20%7C%20Engineer%20%7C%20Builder&fontSize=14&fontColor=e6e2df&font=Segoe+UI&stroke=bd93f9" alt="Role strip" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=36&color=0:0a0a0c,100:9e0100&text=Developer%20%7C%20Engineer%20%7C%20Builder&fontSize=14&fontColor=e6e2df&font=Segoe+UI&stroke=9e0100" alt="Role strip" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/LONECODER1"><img src="https://komarev.com/ghpvc/?username=LONECODER1&label=Profile%20Views&color=bd93f9&style=flat-square&labelColor=0a0a0c" alt="Profile views" /></a>
-  <a href="https://github.com/LONECODER1?tab=followers"><img src="https://img.shields.io/github/followers/LONECODER1?label=Followers&style=flat-square&color=1a0a12&labelColor=0a0a0c&logo=github&logoColor=bd93f9" alt="Followers" /></a>
-  <a href="https://github.com/LONECODER1?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&logoColor=bd93f9&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FLONECODER1&style=flat-square&color=1a0a12&labelColor=0a0a0c" alt="Public repos" /></a>
-  <img src="https://img.shields.io/github/last-commit/LONECODER1/LONECODER1?label=Last%20Commit&style=flat-square&color=1a0a12&labelColor=0a0a0c&logo=github&logoColor=bd93f9" alt="Last commit" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20Cloud%20%7C%20DevOps-1a0a12?style=flat-square&labelColor=0a0a0c&color=bd93f9" alt="Focus areas" />
+  <a href="https://github.com/LONECODER1"><img src="https://komarev.com/ghpvc/?username=LONECODER1&label=Profile%20Views&color=9e0100&style=flat-square&labelColor=0a0a0c" alt="Profile views" /></a>
+  <a href="https://github.com/LONECODER1?tab=followers"><img src="https://img.shields.io/github/followers/LONECODER1?label=Followers&style=flat-square&color=1a0a12&labelColor=0a0a0c&logo=github&logoColor=9e0100" alt="Followers" /></a>
+  <a href="https://github.com/LONECODER1?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&logoColor=9e0100&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FLONECODER1&style=flat-square&color=1a0a12&labelColor=0a0a0c" alt="Public repos" /></a>
+  <img src="https://img.shields.io/github/last-commit/LONECODER1/LONECODER1?label=Last%20Commit&style=flat-square&color=1a0a12&labelColor=0a0a0c&logo=github&logoColor=9e0100" alt="Last commit" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20Cloud%20%7C%20DevOps-1a0a12?style=flat-square&labelColor=0a0a0c&color=9e0100" alt="Focus areas" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=About%20Me&fontSize=24&fontColor=bd93f9&font=Segoe+UI&color=0:0a0a0c,100:120815&animation=fadeIn" alt="About Me" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=About%20Me&fontSize=24&fontColor=9e0100&font=Segoe+UI&color=0:0a0a0c,100:120815&animation=fadeIn" alt="About Me" />
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=Tech%20Stack&fontSize=24&fontColor=bd93f9&font=Segoe+UI&color=0:0a0a0c,100:120815&animation=fadeIn" alt="Tech Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=Tech%20Stack&fontSize=24&fontColor=9e0100&font=Segoe+UI&color=0:0a0a0c,100:120815&animation=fadeIn" alt="Tech Stack" />
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=Achievements&fontSize=24&fontColor=bd93f9&font=Segoe+UI&color=0:0a0a0c,100:120815&animation=fadeIn" alt="Achievements" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=Achievements&fontSize=24&fontColor=9e0100&font=Segoe+UI&color=0:0a0a0c,100:120815&animation=fadeIn" alt="Achievements" />
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=GitHub%20Activity&fontSize=24&fontColor=bd93f9&font=Segoe+UI&color=0:0a0a0c,100:120815&animation=fadeIn" alt="GitHub Activity" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=GitHub%20Activity&fontSize=24&fontColor=9e0100&font=Segoe+UI&color=0:0a0a0c,100:120815&animation=fadeIn" alt="GitHub Activity" />
 </p>
 
 <p align="center">
@@ -109,11 +109,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LONECODER1&theme=radical&hide_border=true&background=0a0a0c&stroke=1a0a2a&ring=bd93f9&fire=bd93f9&currStreakNum=e6e2df&sideNums=8b949e&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=6e7681" alt="Contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LONECODER1&theme=radical&hide_border=true&background=0a0a0c&stroke=1a0a2a&ring=9e0100&fire=9e0100&currStreakNum=e6e2df&sideNums=8b949e&currStreakLabel=9e0100&sideLabels=9e0100&dates=6e7681" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=LONECODER1&bg_color=0a0a0c&color=bd93f9&line=bd93f9&point=bd93f9&area=true&area_color=12081a&hide_border=true" alt="Contribution graph" />
+  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=LONECODER1&bg_color=0a0a0c&color=9e0100&line=9e0100&point=9e0100&area=true&area_color=4a0100&hide_border=true" alt="Contribution graph" />
 </p>
 
 <p align="center">
@@ -125,7 +125,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=Connect&fontSize=24&fontColor=bd93f9&font=Segoe+UI&color=0:0a0a0c,100:120815&animation=fadeIn" alt="Connect" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&text=Connect&fontSize=24&fontColor=9e0100&font=Segoe+UI&color=0:0a0a0c,100:120815&animation=fadeIn" alt="Connect" />
 </p>
 
 <!-- Add your contact links and social badges below -->
@@ -135,7 +135,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a12,50:4a2574,100:bd93f9&height=150&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=e6e2df&font=Segoe+UI&desc=Building%20with%20purpose%20%7C%20Shipping%20with%20precision&descAlignY=66&descSize=15&descColor=bd93f9&animation=fadeIn" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0c,50:4a0100,100:9e0100&height=150&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=e6e2df&font=Segoe+UI&desc=Building%20with%20purpose%20%7C%20Shipping%20with%20precision&descAlignY=66&descSize=15&descColor=9e0100&animation=fadeIn" alt="Footer" />
 </p>
 
 <p align="center">
