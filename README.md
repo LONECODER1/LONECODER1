@@ -5,16 +5,20 @@
   <img src="https://raw.githubusercontent.com/LONECODER1/LONECODER1/main/banner.gif?v=2" alt="Profile banner" width="800" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0c,50:4a0100,100:9e0100&height=140&section=header&text=Aditya%20Gupta&fontSize=52&fontColor=e6e2df&fontAlignY=35&font=Segoe+UI&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=60&descSize=18&descColor=9e0100&animation=fadeIn" alt="Aditya Gupta" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=19&duration=3000&pause=1400&color=9e0100&center=true&vCenter=true&width=760&lines=Building+scalable+full-stack+applications;Cloud-native+architecture+%7C+DevOps+%7C+System+Design;Clean+code+%7C+Strong+systems+%7C+Real+impact;Always+learning+%7C+Always+shipping" alt="Typing tagline" />
-  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0c,50:4a0100,100:9e0100&height=120&section=header&animation=fadeIn" alt="header wave" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=700&size=42&duration=1&pause=99999&color=e6e2df&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Aditya+Gupta+%F0%9F%91%8B" alt="Hi I'm Aditya Gupta" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&duration=3000&pause=1200&color=9e0100&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Open+Source+Contributor;AI+Engineer;Software+Developer" alt="Typing roles" />
+</p>
+<p align="center">
   <a href="https://github.com/LONECODER1" target="_blank"><img src="https://img.shields.io/badge/GitHub-0a0a0c?style=for-the-badge&logo=github&logoColor=9e0100&labelColor=0a0a0c" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/aditya-gupta-iiitbh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a0a0c?style=for-the-badge&logo=linkedin&logoColor=9e0100&labelColor=0a0a0c" alt="LinkedIn" /></a>
   <a href="https://codolio.com/profile/LONECODER1" target="_blank"><img src="https://img.shields.io/badge/Codolio-0a0a0c?style=for-the-badge&logoColor=9e0100&labelColor=0a0a0c" alt="Codolio" /></a>
   <a href="https://leetcode.com/TheOneEgoist" target="_blank"><img src="https://img.shields.io/badge/LeetCode-0a0a0c?style=for-the-badge&logo=leetcode&logoColor=9e0100&labelColor=0a0a0c" alt="LeetCode" /></a>
   <a href="mailto:adityagupta1112004vns@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-0a0a0c?style=for-the-badge&logo=gmail&logoColor=9e0100&labelColor=0a0a0c" alt="Gmail" /></a>
- 
 </p>
 
 <p align="center">
