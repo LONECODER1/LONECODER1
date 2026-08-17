@@ -25,7 +25,7 @@
   <a href="https://github.com/LONECODER1?tab=followers"><img src="https://img.shields.io/github/followers/LONECODER1?label=Followers&style=flat-square&color=1a0a12&labelColor=0a0a0c&logo=github&logoColor=9e0100" alt="Followers" /></a>
   <a href="https://github.com/LONECODER1?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&logoColor=9e0100&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FLONECODER1&style=flat-square&color=1a0a12&labelColor=0a0a0c" alt="Public repos" /></a>
   <img src="https://img.shields.io/github/last-commit/LONECODER1/LONECODER1?label=Last%20Commit&style=flat-square&color=1a0a12&labelColor=0a0a0c&logo=github&logoColor=9e0100" alt="Last commit" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20Cloud%20%7C%20DevOps-1a0a12?style=flat-square&labelColor=0a0a0c&color=9e0100" alt="Focus areas" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20%7C%20DevOps-1a0a12?style=flat-square&labelColor=0a0a0c&color=9e0100" alt="Focus areas" />
 </p>
 
 <p align="center">
