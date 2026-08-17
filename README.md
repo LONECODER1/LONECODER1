@@ -85,7 +85,6 @@
 </p>
 <p align="center">
   <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LONECODER1&theme=radical" alt="Most commit language" />
-  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats-commit-history?username=LONECODER1&theme=radical" alt="Commit history" />
 </p>
 
 <p align="center">
@@ -93,7 +92,7 @@
 </p>
 
 <p align="center">
-  <img width="900" src="https://github-readme-streak-stats.herokuapp.com?user=LONECODER1&theme=radical&hide_border=true&background=0a0a0c&stroke=4a1020&ring=dc143c&fire=dc143c&currStreakNum=e6e2df&sideNums=8b949e&currStreakLabel=dc143c&sideLabels=dc143c&dates=6e7681" alt="Contribution streak" />
+  <img height="185" src="https://github-readme-streak-stats.herokuapp.com?user=LONECODER1&theme=radical&hide_border=true&background=0a0a0c&stroke=4a1020&ring=dc143c&fire=dc143c&currStreakNum=e6e2df&sideNums=8b949e&currStreakLabel=dc143c&sideLabels=dc143c&dates=6e7681" alt="Contribution streak" />
 </p>
 
 <p align="center">
