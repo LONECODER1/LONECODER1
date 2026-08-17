@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0c,50:4a0100,100:9e0100&height=120&section=header&animation=fadeIn" alt="header wave" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=700&size=42&duration=1&pause=99999&color=e6e2df&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Aditya+Gupta+%F0%9F%91%8B" alt="Hi I'm Aditya Gupta" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=700&size=42&duration=1&pause=99999&color=9e0100&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Aditya+Gupta" alt="Hi I'm Aditya Gupta" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&duration=3000&pause=1200&color=9e0100&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Open+Source+Contributor;AI+Engineer;Software+Developer" alt="Typing roles" />
